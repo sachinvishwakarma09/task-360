@@ -1,0 +1,14 @@
+.main .content {
+  margin: auto;
+  width: 90%;
+  max-width: 400px;
+}
+
+.react-select-footer {
+  text-align: center;
+}
+
+.react-select-footer button{
+  padding: 2px 40px;
+  margin: 2px;
+}
